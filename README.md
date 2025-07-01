@@ -8,6 +8,8 @@ _**How to run the Teacher Subject Allocation System Project using PHP and MySQL*
 5. Create a database with the name  tsasdb
 6. Import tsasdb.sql file(given inside the zip package in SQL file folder)
 7. Run the script http://localhost/tsas
+
+
 Admin Credential
 Username: admin
 Password: Test@123
