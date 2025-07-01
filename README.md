@@ -11,5 +11,7 @@ _**How to run the Teacher Subject Allocation System Project using PHP and MySQL*
 
 
 Admin Credential
+
 Username: admin
+
 Password: Test@123
